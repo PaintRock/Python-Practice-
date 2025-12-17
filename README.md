@@ -37,9 +37,18 @@ Really simple with some of the basics:
         return 
     
     
-dict { "name": choice, "name2": choice2 }
-list []
-random 
-        * import random
-        * define the random name_of_ this = [ 1st, 2nd, 3rd, 4th]
+**dict** name = { "name": choice, "name2": choice2 }
 
+**list** name = [ item1, item2, item3]
+
+**random** 
+
+        import random 
+
+        define the random name_of_this = [ 1st, 2nd, 3rd, 4th]
+**concatenate**
+
+and other good stuff ... 
+
+
+** Forth, COMING SOON **
