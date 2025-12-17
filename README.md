@@ -32,12 +32,14 @@ Really simple with some of the basics:
 
 **create function**
 
-    * def fun_name():
-        * content
-        * return 
-    * dict { "name": choice, "name2": choice2 }
-    * list []
-    * random 
+    def fun_name():
+        content
+        return 
+    
+    
+dict { "name": choice, "name2": choice2 }
+list []
+random 
         * import random
         * define the random name_of_ this = [ 1st, 2nd, 3rd, 4th]
 
