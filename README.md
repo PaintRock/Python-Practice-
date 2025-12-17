@@ -27,11 +27,14 @@ Print (f) is used
 ## Third, PYTHON FOR BEGINNERS from freeCodeCamp.org!!
 
 Really simple with some of the basics:
+
 **Emphasizes the indent**
-**create function **
+
+**create function**
+
     * def fun_name():
-        content
-        return 
+        * content
+        * return 
     * dict { "name": choice, "name2": choice2 }
     * list []
     * random 
